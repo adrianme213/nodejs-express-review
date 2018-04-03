@@ -1,0 +1,293 @@
+{
+    "dailygameschedule": {
+        "lastUpdatedOn": "2018-03-07 7:44:04 AM",
+        "gameentry": [
+            {
+                "id": "43216",
+                "scheduleStatus": "Normal",
+                "originalDate": null,
+                "originalTime": null,
+                "delayedOrPostponedReason": null,
+                "date": "2018-04-03",
+                "time": "7:00PM",
+                "awayTeam": {
+                    "ID": "84",
+                    "City": "Brooklyn",
+                    "Name": "Nets",
+                    "Abbreviation": "BRO"
+                },
+                "homeTeam": {
+                    "ID": "85",
+                    "City": "Philadelphia",
+                    "Name": "76ers",
+                    "Abbreviation": "PHI"
+                },
+                "location": "Wells Fargo Center"
+            },
+            {
+                "id": "43217",
+                "scheduleStatus": "Normal",
+                "originalDate": null,
+                "originalTime": null,
+                "delayedOrPostponedReason": null,
+                "date": "2018-04-03",
+                "time": "7:00PM",
+                "awayTeam": {
+                    "ID": "81",
+                    "City": "Toronto",
+                    "Name": "Raptors",
+                    "Abbreviation": "TOR"
+                },
+                "homeTeam": {
+                    "ID": "86",
+                    "City": "Cleveland",
+                    "Name": "Cavaliers",
+                    "Abbreviation": "CLE"
+                },
+                "location": "Quicken Loans Arena"
+            },
+            {
+                "id": "43218",
+                "scheduleStatus": "Normal",
+                "originalDate": null,
+                "originalTime": null,
+                "delayedOrPostponedReason": null,
+                "date": "2018-04-03",
+                "time": "7:30PM",
+                "awayTeam": {
+                    "ID": "95",
+                    "City": "Orlando",
+                    "Name": "Magic",
+                    "Abbreviation": "ORL"
+                },
+                "homeTeam": {
+                    "ID": "83",
+                    "City": "New York",
+                    "Name": "Knicks",
+                    "Abbreviation": "NYK"
+                },
+                "location": "Madison Square Garden"
+            },
+            {
+                "id": "43219",
+                "scheduleStatus": "Normal",
+                "originalDate": null,
+                "originalTime": null,
+                "delayedOrPostponedReason": null,
+                "date": "2018-04-03",
+                "time": "7:30PM",
+                "awayTeam": {
+                    "ID": "91",
+                    "City": "Atlanta",
+                    "Name": "Hawks",
+                    "Abbreviation": "ATL"
+                },
+                "homeTeam": {
+                    "ID": "92",
+                    "City": "Miami",
+                    "Name": "Heat",
+                    "Abbreviation": "MIA"
+                },
+                "location": "American Airlines Arena"
+            },
+            {
+                "id": "43220",
+                "scheduleStatus": "Normal",
+                "originalDate": null,
+                "originalTime": null,
+                "delayedOrPostponedReason": null,
+                "date": "2018-04-03",
+                "time": "8:00PM",
+                "awayTeam": {
+                    "ID": "93",
+                    "City": "Charlotte",
+                    "Name": "Hornets",
+                    "Abbreviation": "CHA"
+                },
+                "homeTeam": {
+                    "ID": "89",
+                    "City": "Chicago",
+                    "Name": "Bulls",
+                    "Abbreviation": "CHI"
+                },
+                "location": "KeyBank Center"
+            },
+            {
+                "id": "43221",
+                "scheduleStatus": "Normal",
+                "originalDate": null,
+                "originalTime": null,
+                "delayedOrPostponedReason": null,
+                "date": "2018-04-03",
+                "time": "8:00PM",
+                "awayTeam": {
+                    "ID": "82",
+                    "City": "Boston",
+                    "Name": "Celtics",
+                    "Abbreviation": "BOS"
+                },
+                "homeTeam": {
+                    "ID": "90",
+                    "City": "Milwaukee",
+                    "Name": "Bucks",
+                    "Abbreviation": "MIL"
+                },
+                "location": "BMO Bradley Harris Center"
+            },
+            {
+                "id": "43222",
+                "scheduleStatus": "Normal",
+                "originalDate": null,
+                "originalTime": null,
+                "delayedOrPostponedReason": null,
+                "date": "2018-04-03",
+                "time": "8:00PM",
+                "awayTeam": {
+                    "ID": "94",
+                    "City": "Washington",
+                    "Name": "Wizards",
+                    "Abbreviation": "WAS"
+                },
+                "homeTeam": {
+                    "ID": "109",
+                    "City": "Houston",
+                    "Name": "Rockets",
+                    "Abbreviation": "HOU"
+                },
+                "location": "Toyota Center"
+            },
+            {
+                "id": "43223",
+                "scheduleStatus": "Normal",
+                "originalDate": null,
+                "originalTime": null,
+                "delayedOrPostponedReason": null,
+                "date": "2018-04-03",
+                "time": "8:00PM",
+                "awayTeam": {
+                    "ID": "101",
+                    "City": "Golden State",
+                    "Name": "Warriors",
+                    "Abbreviation": "GSW"
+                },
+                "homeTeam": {
+                    "ID": "96",
+                    "City": "Oklahoma City",
+                    "Name": "Thunder",
+                    "Abbreviation": "OKL"
+                },
+                "location": "Chesapeake Energy Arena"
+            },
+            {
+                "id": "43224",
+                "scheduleStatus": "Normal",
+                "originalDate": null,
+                "originalTime": null,
+                "delayedOrPostponedReason": null,
+                "date": "2018-04-03",
+                "time": "8:30PM",
+                "awayTeam": {
+                    "ID": "97",
+                    "City": "Portland",
+                    "Name": "Trail Blazers",
+                    "Abbreviation": "POR"
+                },
+                "homeTeam": {
+                    "ID": "108",
+                    "City": "Dallas",
+                    "Name": "Mavericks",
+                    "Abbreviation": "DAL"
+                },
+                "location": "American Airlines Center"
+            },
+            {
+                "id": "43225",
+                "scheduleStatus": "Normal",
+                "originalDate": null,
+                "originalTime": null,
+                "delayedOrPostponedReason": null,
+                "date": "2018-04-03",
+                "time": "9:00PM",
+                "awayTeam": {
+                    "ID": "87",
+                    "City": "Indiana",
+                    "Name": "Pacers",
+                    "Abbreviation": "IND"
+                },
+                "homeTeam": {
+                    "ID": "99",
+                    "City": "Denver",
+                    "Name": "Nuggets",
+                    "Abbreviation": "DEN"
+                },
+                "location": "Pepsi Center"
+            },
+            {
+                "id": "43226",
+                "scheduleStatus": "Normal",
+                "originalDate": null,
+                "originalTime": null,
+                "delayedOrPostponedReason": null,
+                "date": "2018-04-03",
+                "time": "9:00PM",
+                "awayTeam": {
+                    "ID": "105",
+                    "City": "Los Angeles",
+                    "Name": "Lakers",
+                    "Abbreviation": "LAL"
+                },
+                "homeTeam": {
+                    "ID": "98",
+                    "City": "Utah",
+                    "Name": "Jazz",
+                    "Abbreviation": "UTA"
+                },
+                "location": "Vivint Smart Home Arena"
+            },
+            {
+                "id": "43227",
+                "scheduleStatus": "Normal",
+                "originalDate": null,
+                "originalTime": null,
+                "delayedOrPostponedReason": null,
+                "date": "2018-04-03",
+                "time": "10:00PM",
+                "awayTeam": {
+                    "ID": "103",
+                    "City": "Sacramento",
+                    "Name": "Kings",
+                    "Abbreviation": "SAC"
+                },
+                "homeTeam": {
+                    "ID": "104",
+                    "City": "Phoenix",
+                    "Name": "Suns",
+                    "Abbreviation": "PHX"
+                },
+                "location": "Talking Stick Resort Arena"
+            },
+            {
+                "id": "43228",
+                "scheduleStatus": "Normal",
+                "originalDate": null,
+                "originalTime": null,
+                "delayedOrPostponedReason": null,
+                "date": "2018-04-03",
+                "time": "10:30PM",
+                "awayTeam": {
+                    "ID": "106",
+                    "City": "San Antonio",
+                    "Name": "Spurs",
+                    "Abbreviation": "SAS"
+                },
+                "homeTeam": {
+                    "ID": "102",
+                    "City": "Los Angeles",
+                    "Name": "Clippers",
+                    "Abbreviation": "LAC"
+                },
+                "location": "Staples Center"
+            }
+        ]
+    }
+}

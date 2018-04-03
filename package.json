@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-express-review",
+  "version": "1.0.0",
+  "description": "nodejs-express review",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianme213/nodejs-express-review.git"
+  },
+  "author": "Adrian Meza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adrianme213/nodejs-express-review/issues"
+  },
+  "homepage": "https://github.com/adrianme213/nodejs-express-review#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
