@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/adrianme213/nodejs-express-review#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
     "mysql": "^2.15.0"
   }
 }

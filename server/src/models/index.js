@@ -3,20 +3,16 @@ const mysql = require('mysql');
 let _GAMEID = 3;
 module.exports = {
   games: {
-    get: (req, res, statusCode, defaultCorsHeaders) => {
+    get: (req, res) => {
       // a function which produces all the messages
       db.query('SELECT * FROM games;', (err, results, fields) => {
         if (err) { throw err; }
 
         // SEND BACK RESPONSE
-        const headers = Object.assign({}, defaultCorsHeaders);
-        headers['Content-Type'] = 'application/json';
-        statusCode = 200;
-        res.writeHead(statusCode, headers);
-        res.end(JSON.stringify(results));
+        res.status(200).send(results);
       });
     },
-    post: (req, res, statusCode, defaultCorsHeaders, game) => {
+    post: (req, res, game) => {
       // a function which can be used to insert a message into the database
       _GAMEID++;
       const queryStr = `INSERT INTO games (id, date, time, awayTeam, homeTeam, location)
@@ -26,11 +22,7 @@ module.exports = {
         if (err) { throw err; }
 
         // SEND BACK RESPONSE
-        statusCode = 201;
-        const headers = Object.assign({}, defaultCorsHeaders);
-        headers['Content-Type'] = 'application/json';
-        res.writeHead(statusCode, headers);
-        res.end(JSON.stringify('SUCCESS'));
+        res.status(201).send('Success');
       });
     }
   }
