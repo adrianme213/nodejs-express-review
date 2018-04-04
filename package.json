@@ -4,7 +4,8 @@
   "description": "nodejs-express review",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "rest-server": "nodemon server/src/index.js",
+    "clear-database": "mysql -u root < server/src/db/schema.sql"
   },
   "repository": {
     "type": "git",
